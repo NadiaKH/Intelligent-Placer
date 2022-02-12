@@ -2,6 +2,8 @@
 ## Описание данных
 Прежде, чем описывать задачу, я хочу описать файл с собранными данными
 
+Ссылка на данные https://drive.google.com/drive/folders/1e3rQsB-8N364o7oq8eVdH8vPkYrc0U3t?usp=sharing
+
 В файле data содержатся
 * IMGS - входные фотографии 
 * figures_coordinates.json - многоугольники, заданные покоординатно 
